@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">便签</string>
+
+    <string name="action_settings">设置</string>
+    <string name="action_button1">button1</string>
+    <string name="action_search">搜索</string>
+    <string name="action_switch">切换布局</string>
+    <string name="title_activity_note">NoteActivity</string>
+    <string name="title_choose">选择目录</string>
+    <string name="title_favorite">收藏</string>
+    <string name="title_trash_bin">回收站</string>
+    <string name="popup_delete">移入回收站</string>
+    <string name="popup_share">分享</string>
+    <string name="title_activity_setting">设置</string>
+    <string name="pref_switch_layout">switch_layout</string>
+    <string name="pref_switch_theme">switch_theme</string>
+    <string name="popup_delete_from_db">彻底删除</string>
+    <string name="popup_restore">恢复</string>
+    <string name="action_note_share">分享</string>
+    <string name="action_about">关于</string>
+    <string name="popup_favorite">收藏</string>
+    <string name="text_title">标题</string>
+    <string name="text_content">内容</string>
+    <string name="log_out">退出账号</string>
+    <string name="action_sync">同步</string>
+    <string name="action_attach">附件</string>
+    <string name="action_login">登陆</string>
+    <array name="pref_switch_layout_entries">
+        <item>线性布局</item>
+        <item>网格布局</item>
+        <item>瀑布流布局</item>
+    </array>
+    <array name="pref_switch_layout_entries_values">
+        <item>linear_layout</item>
+        <item>grid_layout</item>
+        <item>staggered_grid_layout</item>
+    </array>
+
+    <array name="pref_switch_theme_entries">
+        <item>红色</item>
+        <item>绿色</item>
+        <item>蓝色</item>
+    </array>
+    <array name="pref_switch_theme_entries_values">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+    </array>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登陆</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_username">用户名</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user_none">未登录</string>
+    <string name="btn_text_login">登录</string>
+    <string name="btn_text_reg">注册</string>
+    <string name="hint_login_password">请输入密码</string>
+    <string name="hint_login_username">请输入用户名</string>
+    <string name="btn_text_reg_cancel">取消</string>
+    <string name="hint_login_email">请输入电子邮箱</string>
+    <string name="tv_sample_username">用户名</string>
+    <string name="tv_sample_email">邮箱</string>
+    <string name="btn_text_logout">退出当前账号</string>
+    <string name="btn_text_sync">同步便签</string>
+    <string name="text_username">用户名</string>
+    <string name="text_password">密码</string>
+    <string name="text_email">电子邮箱</string>
+</resources>
